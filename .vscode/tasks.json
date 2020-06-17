@@ -12,8 +12,6 @@
 				"include",
 				//"/Zi",
 				"/EHsc",
-				"/Fe:",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe",
 				"src/*.cpp",
 				"lib/*.lib"
 			],
